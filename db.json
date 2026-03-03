@@ -1,0 +1,52 @@
+{
+  "usuario": [
+    {
+      "id": "5e74",
+      "nombre": "errol",
+      "correo": "errol1234567@gmail.com",
+      "contraseña": "123245"
+    },
+    {
+      "id": "c481",
+      "nombre": "Fressia ",
+      "correo": "Fressi@gmail.com",
+      "contraseña": "12345"
+    },
+    {
+      "id": "a628",
+      "nombre": "Steven",
+      "correo": "steven@gamil.com",
+      "contraseña": "123456"
+    },
+    {
+      "id": "f49e",
+      "nombre": "Andres",
+      "correo": "andres@gmail.com",
+      "contraseña": "123456"
+    },
+    {
+      "id": "cf6f",
+      "nombre": "Sarai",
+      "correo": "sarai@gmail.com",
+      "contraseña": "123456"
+    },
+    {
+      "id": "234a",
+      "nombre": "Francella",
+      "correo": "France@gmail.com",
+      "contraseña": "123456"
+    },
+    {
+      "id": "82c5",
+      "nombre": "errol",
+      "correo": "errol1234567@gmail.com",
+      "contraseña": "123456"
+    },
+    {
+      "id": "66f8",
+      "nombre": "momo",
+      "correo": "momo@gmail.com",
+      "contraseña": "123456"
+    }
+  ]
+}
